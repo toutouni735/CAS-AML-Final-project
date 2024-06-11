@@ -1,6 +1,6 @@
-# CAS-AML-Final-project
+# CAS AML Final project
 
-Machine and Deep Learning Solutions to Differentiate Epithelial Tissues via ATR FTIR Spectroscopy
+##Machine and Deep Learning Solutions to Differentiate Epithelial Tissues via ATR FTIR Spectroscopy
 
 2. Project Description
 This is an important component of your project that many new developers often overlook.
