@@ -1,7 +1,6 @@
 # CAS-AML-Final-project
 
-1. Project's Title
-This is the name of the project. It describes the whole project in one sentence, and helps people understand what the main goal and aim of the project is.
+Machine and Deep Learning Solutions to Differentiate Epithelial Tissues via ATR FTIR Spectroscopy
 
 2. Project Description
 This is an important component of your project that many new developers often overlook.
