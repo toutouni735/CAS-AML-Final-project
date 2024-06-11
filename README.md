@@ -1,17 +1,10 @@
 # CAS AML Final project
 
-#Machine and Deep Learning Solutions to Differentiate Epithelial Tissues via ATR FTIR Spectroscopy
+Machine and Deep Learning Solutions to Differentiate Epithelial Tissues via ATR FTIR Spectroscopy
 
-2. Project Description
-This is an important component of your project that many new developers often overlook.
+Project Description
+This project focuses on the classification of tissue types using Attenuated Total Reflectance Fourier-Transform Infrared (ATR-FTIR) spectroscopy data combined with machine learning techniques. The primary goal is to accurately distinguish between olfactory epithelium (OE), respiratory epithelium (RE), and tracheal tissues. The secondary goal is to characterize these tissue by model analysis.
 
-Your description is an extremely important aspect of your project. A well-crafted description allows you to show off your work to other developers as well as potential employers.
-
-The quality of a README description often differentiates a good project from a bad project. A good one takes advantage of the opportunity to explain and showcase:
-
-What your application does,
-Why you used the technologies you used,
-Some of the challenges you faced and features you hope to implement in the future.
 3. Table of Contents (Optional)
 If your README is very long, you might want to add a table of contents to make it easy for users to navigate to different sections easily. It will make it easier for readers to move around the project with ease.
 
